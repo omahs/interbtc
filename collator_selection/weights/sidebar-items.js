@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["SubstrateWeight","Weights for collator_selection using the Substrate node and recommended hardware."]],"trait":[["WeightInfo",""]]});

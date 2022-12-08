@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["try_upgrade_current_client_releases","For each pending client release, set the current release to that. The pending release entry is removed."]]});

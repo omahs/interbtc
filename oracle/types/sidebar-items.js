@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Version","Storage version."]],"trait":[["OnAggregateChange",""]],"type":[["UnsignedFixedPoint",""]]});

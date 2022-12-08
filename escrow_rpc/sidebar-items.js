@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Escrow","A struct that implements the [`EscrowApi`]."]],"trait":[["EscrowApiClient","Client implementation for the `EscrowApi` RPC API."],["EscrowApiServer","Server trait implementation for the `EscrowApi` RPC API."],["EscrowRuntimeApi",""]]});

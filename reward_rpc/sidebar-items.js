@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Reward","A struct that implements the [`RewardApi`]."]],"trait":[["RewardApiClient","Client implementation for the `RewardApi` RPC API."],["RewardApiServer","Server trait implementation for the `RewardApi` RPC API."],["RewardRuntimeApi",""]]});

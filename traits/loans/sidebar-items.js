@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["MarketInfo","MarketInfo contains some static attrs as a subset of Market struct in Loans"],["MarketStatus","MarketStatus contains some dynamic calculated attrs of Market"]],"trait":[["LoansApi",""],["LoansMarketDataProvider",""]]});
